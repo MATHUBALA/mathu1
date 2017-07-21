@@ -1,5 +1,5 @@
 import java.util.*;
-public Class naturalsum{ 
+public class naturalsum{ 
 public static void main(Sring args[]){
   int i,sum=0;
   Scanner s=new Scanner(System.in);
